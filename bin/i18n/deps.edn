@@ -3,7 +3,7 @@
  :deps
  {common/common                     {:local/root "../common"}
   cheshire/cheshire                 {:mvn/version "5.8.1"}
-  clj-http/clj-http                 {:mvn/version "3.9.1"}
+  clj-http/clj-http                 {:mvn/version "2.0.0"}
   org.fedorahosted.tennera/jgettext {:mvn/version "0.15.1"}}
 
  :aliases
